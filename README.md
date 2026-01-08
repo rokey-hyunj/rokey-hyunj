@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Hyunjong
 
-🎓 Bachelor's degree in Electrical Engineering
-🤖 Interested in Robotics × AI × Healthcare
+🤖 Interested in AI × Healthcare x Robotics
 
 ---
 
 ## 🎓 Education & Training
+🦾 **ROKEY Robotics Bootcamp Graduate (Doosan Robotics)**
+<details>
+<summary><b>🤖 ROKEY Bootcamp – What I Did</b></summary>
 
-### 🦾 ROKEY Robotics Bootcamp  
-**Hosted by Doosan Robotics**
+- Doosan collaborative robot control
+- ROS node design and launch files
+- Simulation & motion planning
+- Team project-based robot automation
 
-- Period: 2025.07 – 2026.01
-- Description:
-  - Hands-on robotics bootcamp focused on collaborative robots
-  - Robot control and system integration using ROS
-  - Motion planning and simulation for manipulators
-  - Team-based automation project experience
+</details>
 
 ---
 
@@ -23,3 +22,6 @@
 - Python / PyTorch
 - ROS / Robotics Software
 - Medical Image AI
+
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-%23000000)
