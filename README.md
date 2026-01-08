@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hyunjong
 
-<!--
-**rokey-hyunj/rokey-hyunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor's degree in Electrical Engineering
+🤖 Interested in Robotics × AI × Healthcare
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Training
+
+### 🦾 ROKEY Robotics Bootcamp  
+**Hosted by Doosan Robotics**
+
+- Period: 2025.07 – 2026.01
+- Description:
+  - Hands-on robotics bootcamp focused on collaborative robots
+  - Robot control and system integration using ROS
+  - Motion planning and simulation for manipulators
+  - Team-based automation project experience
+
+---
+
+## 🛠 Skills
+- Python / PyTorch
+- ROS / Robotics Software
+- Medical Image AI
